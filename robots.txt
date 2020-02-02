@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maibuyozai.tixz.dk/sitemap.xml
